@@ -31,8 +31,5 @@ You need to logout and login to ansible host for using docker commands w/o "sudo
 **Links for official sites:**
 
 - Download [UBUNTU](https://ubuntu.com/) <img src="https://yt3.ggpht.com/a/AGF-l7-l5uiSdhlHQW21a7bMhlhnKE964D8EGplN3g=s900-c-k-c0xffffffff-no-rj-mo" alt="ubuntu" width="50"/>
-- Download [CentOS](https://www.centos.org/download/)
-![centos logo](https://yandex.by/images/search?pos=0&from=tabbar&img_url=https%3A%2F%2Fhosteko.com%2Fhtk-blog%2Fwp-content%2Fuploads%2F2019%2F05%2Fcentos.png&text=centos+logo&rpt=simage)
-- Download [Debian](https://www.debian.org/releases/buster/releasenotes)
-![debian logo](https://yandex.by/images/search?pos=0&from=tabbar&img_url=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F4%2F4a%2FDebian-OpenLogo.svg%2F440px-Debian-OpenLogo.svg.png&text=debian+logo&rpt=simage)
-
+- Download [CentOS](https://www.centos.org/download/) <img src="https://cdn.worldvectorlogo.com/logos/centos.svg" alt="centos" width="200"/>
+- Download [Debian](https://www.debian.org/releases/buster/releasenotes) <img src="https://sun9-50.userapi.com/c849236/v849236923/146b71/p35XEjeHTYE.jpg" alt="debian" width="200"/>
