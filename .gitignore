@@ -1,0 +1,3 @@
+# directoty that will be skipped during the commmits
+
+tmp/
